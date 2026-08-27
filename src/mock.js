@@ -126,8 +126,8 @@ export const portfolioData = {
       image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600&h=400&fit=crop",
       category: "Frontend",
       technologies: ["React", "Tailwind CSS", "JavaScript"],
-      github: null ,
-      live: null,
+      github: "https://github.com/Arman-8431" ,
+      live: "https://arman-portfolio-c84x.onrender.com",
       stars: 5,
       views: "800",
       status: "Live"
