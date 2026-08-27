@@ -14,7 +14,7 @@ export const portfolioData = {
   },
  
   social: {
-    github: "https://github.com/dashboard",
+    github: "https://github.com/Arman-8431",
     linkedin: "https://www.linkedin.com/in/arman-567433332/",
     twitter: "Empty",
     email: "armali6886@gmail.com"
@@ -87,7 +87,7 @@ export const portfolioData = {
       image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=600&h=400&fit=crop",
       category: "Full Stack",
       technologies: ["Java", "Spring Boot", "MySQL", "JWT", "Redis"],
-      github: "https://github.com/arman/ecommerce-api",
+      github: /* "https://github.com/arman/ecommerce-api" */ ,
       live: null,
       stars: 12,
       views: "2.1k",
@@ -100,7 +100,7 @@ export const portfolioData = {
       image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&h=400&fit=crop",
       category: "Full Stack",
       technologies: ["Java", "Spring Boot", "React", "PostgreSQL", "Docker"],
-      github: "https://github.com/arman/student-management",
+      github: /* "https://github.com/arman/student-management" */,
       live: null,
       stars: 8,
       views: "1.5k",
@@ -113,7 +113,7 @@ export const portfolioData = {
       image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=600&h=400&fit=crop",
       category: "Backend",
       technologies: ["Java", "Spring Boot", "MongoDB", "JWT"],
-      github: "https://github.com/arman/task-tracker",
+      github: /* "https://github.com/arman/task-tracker" */,
       live: null,
       stars: 15,
       views: "3.2k",
@@ -126,8 +126,8 @@ export const portfolioData = {
       image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600&h=400&fit=crop",
       category: "Frontend",
       technologies: ["React", "Tailwind CSS", "JavaScript"],
-      github: "https://github.com/arman/portfolio",
-      live: "https://arman-portfolio.example.com",
+      github: /* "https://github.com/arman/portfolio"*/ ,
+      live: null,
       stars: 5,
       views: "800",
       status: "Live"
@@ -139,8 +139,8 @@ export const portfolioData = {
       image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop",
       category: "Frontend",
       technologies: ["React", "API Integration", "CSS3"],
-      github: "https://github.com/dashboard",
-      live: "https://weather.arman.example.com",
+      github: /*"https://github.com/dashboard"*/,
+      live: null,
       stars: 7,
       views: "1.2k",
       status: "Live"
@@ -159,7 +159,7 @@ export const portfolioData = {
     phone: "+91 7599710000",
     location: "Agra, Uttar pradesh, India",
     socials: {
-      github: "https://github.com/dashboard",
+      github: "https://github.com/Arman-8431",
       linkedin: "https://www.linkedin.com/in/arman-567433332/",
       twitter: "Empty"
     }
